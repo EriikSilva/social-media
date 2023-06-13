@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import {Post} from './post.model'
+import { Post } from './post.model'
 import { Subject } from 'rxjs';
 
 @Injectable({
